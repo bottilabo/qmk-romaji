@@ -17,11 +17,11 @@ QMK Firmware で、同時打鍵ローマ字入力を行います。QWERTY配列�
 
 ### 例
 
-- わんちゃん `WA`<SPC>`,TYA`<SPC>``
+- わんちゃん `WA<SPC>,TYA<SPC>`
 - さいかい `SAI,KAI`
 - ほうたい `HUO,TAI`
-- いっしゅん `I,S,SUY`<SPC>``
-- しょうきん `SUOY,KI`<SPC>``
+- いっしゅん `I,S,SUY<SPC>`
+- しょうきん `SUOY,KI<SPC>`
 
 
 # QMK Firmware での組み込み方
